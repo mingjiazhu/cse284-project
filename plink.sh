@@ -1,0 +1,1 @@
+plink --bfile ps2_ibd.lwk --genome --out lwk.ibd
