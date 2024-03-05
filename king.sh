@@ -1,0 +1,1 @@
+./king -b data/ps2_ibd.lwk.bed --ibdseg
