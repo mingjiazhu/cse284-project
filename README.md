@@ -1,5 +1,5 @@
 # cse284-project
-Group 17 / Brocolli
+Group 17 / Broccoli
 
 Yinglan Chi, Jiayin Liu, Mingjia Zhu
 
