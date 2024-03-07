@@ -13,6 +13,7 @@ In our repository, we have created the "plink.sh" file. In this script file, we 
 wget https://www.kingrelatedness.com/Linux-king.tar.gz
 tar -xzvf Linux-king.tar.gz
 ```
+We have included the installed executable file in this repository.
 
 In our repository, we have created the "king.sh" file. In this script file, we input the genotype data in binary PLINK format and output the file containing information about the segments of IBD detected between all pairs of individuals in the input data.
 ## Analysis & Result
