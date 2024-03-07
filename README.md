@@ -9,8 +9,8 @@ We will focus on 1000 Genomes individuals from the LWK population (the Luhya pop
 In our repository, we have created the "plink.sh" file. In this script file, we input the binary genotype data and ouptut the file containing the identify-by-descent (IBD) statistics calculated for all pairs of individuals in the input data. 
 ## KING
 [KING](https://www.kingrelatedness.com/manual.shtml) is a toolset to explore genotype data from a genome-wide association study (GWAS) or a sequencing project. To install KING, run
-`wget https://www.kingrelatedness.com/Linux-king.tar.gz
-tar -xzvf Linux-king.tar.gz`
+```wget https://www.kingrelatedness.com/Linux-king.tar.gz
+tar -xzvf Linux-king.tar.gz```
 
 In our repository, we have created the "king.sh" file. In this script file, we input the genotype data in binary PLINK format and output the file containing information about the segments of IBD detected between all pairs of individuals in the input data.
 ## Analysis & Result
